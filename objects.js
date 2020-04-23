@@ -3,4 +3,4 @@ var playlist = {
   Sometimes: "My Bloody Valentine"
 };
 
-playlist.Alison
+playlist["Phil Ochs"] = "Here's to the State of Mississippi"
